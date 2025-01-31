@@ -1,0 +1,9 @@
+.footer__column_link,
+.footer__social_icon {
+  color: #f2f2f2;
+}
+
+.footer__column_link:hover,
+.footer__social_icon:hover {
+  color: #f2f2f2;
+}

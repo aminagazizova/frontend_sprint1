@@ -1,0 +1,7 @@
+.feynman__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 70px;
+    align-items: center;
+  }

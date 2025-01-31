@@ -1,0 +1,5 @@
+.footer__column_content_copyright {
+    flex-direction: column;
+    width: 50%;
+    text-align: left;
+  }
